@@ -8,4 +8,6 @@ DISCLAIMER: Some people have run into issues regarding files with .gif extension
 Some environments have been able to convert it, although the image resulted is black and white.
 Other environments have run into errors with the python code causing errors.
 
+Two texture files have been included in the repository, feel free to test both of them out. 
+
 Enjoy your images being transformed!
